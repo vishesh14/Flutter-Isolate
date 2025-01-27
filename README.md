@@ -1,4 +1,4 @@
-# flutter_practice_apps
+# flutter_isolate_apps
 
 A new Flutter project.
 
